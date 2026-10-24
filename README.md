@@ -46,4 +46,6 @@ Components under permissive or proprietary licences (BASS and its add-ons, ONNX
 Runtime, the Beat This! model, OpenSSL inside BASS_SSL, .NET helper libraries) need no
 source offer; their notices ship in the `Licenses` folder of NHR.
 
+The privacy statement of NHR is in [PRIVACY.md](PRIVACY.md).
+
 Questions: open an issue in this repository.
